@@ -37,7 +37,7 @@ body {
 
 .back-card {
     position: absolute;
-    background-color: teal;
+    background-color: rgb(208, 114, 133);
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
